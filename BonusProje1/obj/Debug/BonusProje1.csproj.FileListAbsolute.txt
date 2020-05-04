@@ -1,0 +1,32 @@
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\bin\Debug\BonusProje1.exe.config
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\bin\Debug\BonusProje1.exe
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\bin\Debug\BonusProje1.pdb
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csprojAssemblyReference.cache
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.Form1.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.Properties.Resources.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.GenerateResource.cache
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.exe
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.pdb
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmÖgrenciNotlar.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmOgretmen.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmKulup.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmDersler.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmOgrenci.resources
+C:\Users\yvz\Desktop\Uygulamalar\BonusProje1\BonusProje1\obj\Debug\BonusProje1.FrmSınavNotlar.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\bin\Debug\BonusProje1.exe.config
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\bin\Debug\BonusProje1.exe
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\bin\Debug\BonusProje1.pdb
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.csprojAssemblyReference.cache
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.Form1.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.FrmDersler.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.FrmKulup.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.FrmOgrenci.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.FrmOgretmen.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.FrmSınavNotlar.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.FrmÖgrenciNotlar.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.Properties.Resources.resources
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.csproj.GenerateResource.cache
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.exe
+C:\Users\yvz\Desktop\Uygulamalar\E OKUL\BonusProje1\obj\Debug\BonusProje1.pdb
